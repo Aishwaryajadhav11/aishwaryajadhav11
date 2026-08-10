@@ -66,18 +66,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,vscode,vercel">
 </p>
 
-# 🔥 My GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aishwaryajadhav11&show_icons=true&theme=tokyonight&hide_border=true">
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aishwaryajadhav11&theme=flat&no-frame=true&no-bg=true">
-</p>
-
 ## 📈 Contribution Graph
 
 <p align="center">
