@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/aishwarya-banner.png" width="100%" alt="Aishwarya Jadhav Banner">
+  <img src="./assets/aishwarya-banner.png" width="100%">
 </p>
 
 <h2 align="center">👋 Hi, I'm Aishwarya Jadhav</h2>
