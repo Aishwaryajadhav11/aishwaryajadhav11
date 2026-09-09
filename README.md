@@ -9,9 +9,7 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aishwaryajadhav11&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
+
 
 - 🌱 **Currently Working On:** Smart Attendance Monitoring System
 - 💬 **Ask Me About:** Python, React, Node.js, MERN Stack, AI/ML, or anything tech.
